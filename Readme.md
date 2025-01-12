@@ -1,8 +1,14 @@
 # EDUCATATIONAL PURPOSES ONLY
 
+Este contenido es educacional e inspirado en su autor: Idea Visuals Tech, es un extra, un programa que he diseñado para hacerlo mas facil.
+
+[![Video de Introducción](https://img.youtube.com/vi/X0RUrIYXNaE/0.jpg)](https://www.youtube.com/watch?v=X0RUrIYXNaE)
+
+Mis gracias a Idea Visuals Tech
+
 Para un enfoque más eficiente, podemos usar un script basado en el calendario, ejecutado el día exacto en que quieras (por ejemplo, cada 85 días) en lugar de mantener un **LaunchDaemon** en segundo plano todo el tiempo. Esto se puede lograr con el programador de tareas de macOS, **`cron`**.
 
-#¶# Configuración basada en el calendario
+## Configuración basada en el calendario
 
 ### Paso 1: Crear el script
 1. Abre **Terminal** y crea un script como antes:
